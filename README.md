@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Samradha
 
-<!--
-**samradhad/samradhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA student | Aspiring Data Analyst  
+📊 Interested in Data Analysis, Insights and Visualization
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- SQL (SSMS, MySQL)
+- Python (Data Analysis and Machine Learning)
+- Excel
+- Power BI
+- Tableau (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm working on
+- Hands-on SQL practice with real-world style datasets
+- Exploratory data analysis using Python notebooks
+- Learning to present insights through clear visualizations
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samradha-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samradha/)
+[![GitHub](https://img.shields.io/badge/GitHub-Samradha-333?style=for-the-badge&logo=github)](https://github.com/samradhad)
+[![Leetcode](https://img.shields.io/badge/Leetcode-Samradha-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Samradha/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Samradha-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samradhd)
+
+---
